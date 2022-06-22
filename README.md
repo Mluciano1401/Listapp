@@ -1,3 +1,2 @@
 # Listapp
-this app recreates a shopping list where you can and add products
-training in typescript
+this app recreates a shopping list where you can and add products using typescript
